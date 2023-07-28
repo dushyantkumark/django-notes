@@ -9,7 +9,7 @@ This is a simple notes app built with React and Django.
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/LondheShubham153/django-notes-app.git
+git clone https://github.com/dushyantkumark/django-notes-app.git
 ```
 
 2. Build the app
@@ -28,3 +28,10 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
+
+## Any Update
+'''
+Add more information if needed
+'''
+
+## THANK YOU..........
